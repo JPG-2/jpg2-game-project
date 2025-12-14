@@ -5347,8 +5347,7 @@ position = Vector2(29, -33)
 
 [node name="HouseDoor" parent="." groups=["doors"] instance=ExtResource("10_hd3c0")]
 position = Vector2(241, -43)
-door_id = "1"
-target_id = "3"
+door_id = "3"
 target_scene_path = "res://scenes/worlds/player_living_room/player_living_room_D2M.tscn"
 
 [node name="CafeDoor" parent="." groups=["doors"] instance=ExtResource("10_hd3c0")]
